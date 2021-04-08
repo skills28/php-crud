@@ -47,7 +47,9 @@ if ($conn->connect_error) {
 > # ~~ Images ~~
 
 <img src="https://github.com/skills28/php-crud/blob/main/index-page-crud-aap.PNG" title="Home Page">
-<img src="https://github.com/skills28/php-crud/blob/main/post-page-crud-app.PNG" title="Create Post">
+<img src="https://github.com/skills28/php-crud/blob/main/post-page-crud-app.PNG" title="Post Page">
+<img src="https://github.com/skills28/php-crud/blob/main/update-page-crud-app.PNG" title="Update Page">
+<img src="https://github.com/skills28/php-crud/blob/main/tool-page-crud-app.PNG" title="Tools Page">
 
 
 # Done Work!
