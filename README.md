@@ -1,4 +1,4 @@
 # PHP Basic CRUD App
-## PHP
-## Bootstrap 4
-## Mysql 
+### PHP Version 7
+### Bootstrap Version B-4
+### Mysql Version 5.4
