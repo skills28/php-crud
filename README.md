@@ -7,18 +7,18 @@
 
 > ### database table
 
-
 ```mysql
 
-CREATE TABLE `country_capital` (
-	`id` INT(11) NOT NULL AUTO_INCREMENT,
-	`country_name` TEXT NULL,
-	`capital_name` TEXT NULL,
-	PRIMARY KEY (`id`)
+CREATE TABLE `post` (
+	`post_id` INT(11) NOT NULL AUTO_INCREMENT,
+	`title` TEXT NULL,
+	`description` TEXT NULL,
+	`languages` TEXT NULL,
+	PRIMARY KEY (`post_id`)
 )
 COLLATE='latin1_swedish_ci'
 ENGINE=InnoDB
-AUTO_INCREMENT=9
+AUTO_INCREMENT=18
 ;
 
 ```
